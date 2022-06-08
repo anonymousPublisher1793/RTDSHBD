@@ -1,0 +1,5 @@
+ID,Priority,CPS_involved,Description,Success_rate,Source,Comment,
+4,3,CPS 1 and 2,If temperature is below 18 degrees (C); switch on immersion heaters."",40,Human,Fixed
+1,2,CPS 3,""If water level declines steadily over three pieces; start alert."",45,Machine,-
+2,1,CPS 1 and 2,""If temperature is above 25 degrees (C); increase weight by 5kN."",100,Human,Requires further work
+3,4,CPS 2 and 3,""If water level measurements jump; start cleaning program."",90,Human,-

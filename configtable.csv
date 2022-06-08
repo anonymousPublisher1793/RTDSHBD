@@ -1,0 +1,4 @@
+Production process order, Machines involved, Sensor(s) attached, Lower threshold, upper threshold
+1, "CPS 1", "S1(C)", 5(C), 25(C)
+2, "CPS 2", "S2(C), S3(l)", 5(C) and 4(l), 25(C) and 15(l)
+3, "CPS 3","S4(l)", 4(l), 15(l)

@@ -1,0 +1,10 @@
+27,10:55:12,Relevant,CPS 3 output weight low,Case 4,Solved,Never works with rule 1
+7,07:59:08,Critical,CPS 2 out of water,Rule 3,Solved,Should work with rule 4
+25,07:59:03,Relevant,CPS 2 out of water,Rule 3,Solved,-
+49,14:18:35,Neglegtable,CPS 3 water missing,Rule 4,None,Should work with rule 5
+36,14:18:30,Critical,CPS 3 output weight declines steadily,Rule 1,Success,Always works
+33,14:00:29,Relevant,CPS 3 output weight low,Case 3,Success,-
+27,14:00:24,Relevant,CPS 3 water missing,Rule 4,None,Should work with rule 5
+8,13:28:00,Neglegtable,CPS 1 temperature too high,Rule 4,Success,Also works with case 5
+33,13:27:55,Neglegtable,CPS 2 filter contaminated,Case 3,Success,-
+1,aa,CPS 2 filter contaminated,Severe,Rule 3,Success,Should work with rule 5

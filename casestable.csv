@@ -1,0 +1,5 @@
+ID,Priority,"CPS_involved","Description","Success_rate","Source","Comment",
+4,1,"CPS 1 and 2","In case of measurements of more than 36 degrees (C) of both temperature sensors; reduce CPSs temperatures by 10 degrees (C).",40,"Human","Checked"
+1,2,"CPS 2","In case of measurements of both temperature sensors that lie more than 25 degrees (C) apart; clean filters.",4,"Machine","-",
+2,3,"CPS 2 and 3","In case of water evaporation for longer than an hour; add 1l of cool water.",100,"Human","-",
+3,4,"CPS 2 and 3","In case of water measurements that jump by more than 10 liters within one minute; replace gears.",90,"Human","Updated",

@@ -1,0 +1,25 @@
+43,13:03:21,Critical,CPS 3 output weight low,Rule 1,Tolerated,-
+29,12:51:45,Neglegtable,CPS 3 output weight low,Case 3,Solved,Should work with rule 6
+14,12:25:03,Neglegtable,CPS 1 temperature too high,Rule 2,Solved,Case should not be changed
+16,12:24:58,Critical,CPS 3 water missing,Rule 4,Solved,Also works with case 5
+2,12:24:53,Severe,CPS 2 out of water,Case 3,Solved,Should work with rule 6
+9,12:24:48,Neglegtable,CPS 3 water missing,Rule 4,Solved,Never works with rule 1
+48,12:24:43,Critical,CPS 2 polluted,Rule 1,Solved,-
+40,12:24:38,Relevant,CPS 1 water low,Case 2,Tolerated,Also works with case 3
+20,12:24:33,Neglegtable,CPS 1 water low,Rule 3,Solved,Should work with rule 4
+36,12:24:28,Critical,CPS 3 output weight declines steadily,Rule 3,Solved,Always works
+38,12:24:23,Relevant,CPS 1 water low,Case 3,Tolerated,Always works
+8,12:24:18,Critical,CPS 1 temperature too high,Rule 2,Tolerated,Should work with rule 4
+16,12:24:13,Relevant,CPS 2 polluted,Rule 4,Prevented,Should work with rule 6
+13,12:24:07,Neglegtable,CPS 2 out of water,Case 2,Solved,Also works with case 5
+15,12:24:02,Relevant,CPS 1 water low,Case 1,Prevented,Should work with rule 5
+45,12:23:57,Critical,CPS 3 output weight declines steadily,Case 4,Tolerated,Always works
+16,12:23:52,Relevant,CPS 3 output weight declines steadily,Case 4,Tolerated,Should work with rule 6
+47,12:23:47,Neglegtable,CPS 2 filter contaminated,Case 1,Tolerated,Requires new rule
+22,12:23:42,Critical,CPS 2 filter contaminated,Case 1,Solved,Requires new rule
+3,12:23:37,Critical,CPS 1 temperature too high,Rule 2,Solved,Requires new rule
+6,12:23:32,Critical,CPS 2 polluted,Case 3,Tolerated,Always works
+14,12:23:27,Neglegtable,CPS 1 temperature too high,Rule 4,Tolerated,Always works
+34,12:23:22,Critical,CPS 3 output weight low,Rule 1,Solved,Also works with case 5
+43,12:23:17,Relevant,CPS 3 water missing,Rule 1,Tolerated,Should work with rule 4
+14,12:23:12,Neglegtable,CPS 3 output weight declines steadily,Rule 3,Solved,-
